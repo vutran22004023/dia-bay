@@ -1,7 +1,7 @@
 .galaxy {
     width: 100vw;
     height: 100vh;
-    background-image: url(./anh/anh-anime-galaxy-phong-canh-tuyet-dep.jpg);
+    background-image: url(../anh-anime-galaxy-phong-canh-tuyet-dep.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
